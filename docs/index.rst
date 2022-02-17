@@ -13,9 +13,6 @@ Welcome to betabinomial's documentation!
 
    quick_start
    notebooks/examples
-   api
-
-   source/modules
 
 .. mdinclude:: ../README.md
 
