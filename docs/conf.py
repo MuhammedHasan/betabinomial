@@ -31,7 +31,6 @@ author = 'M. Hasan Celik'
 # ones.
 extensions = [
     'sphinx.ext.napoleon',
-    'sphinx.ext.autodoc',
     'autoapi.extension',
     'm2r2',
     'nbsphinx'
