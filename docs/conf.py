@@ -32,9 +32,14 @@ author = 'M. Hasan Celik'
 extensions = [
     'sphinx.ext.napoleon',
     'sphinx.ext.autodoc',
+    'autoapi.extension',
     'm2r2',
     'nbsphinx'
 ]
+
+autoapi_type = 'python'
+autoapi_dirs = ['../betabinomial']
+
 # napoleon_google_docstring = False
 # napoleon_use_param = False
 # napoleon_use_ivar = True
