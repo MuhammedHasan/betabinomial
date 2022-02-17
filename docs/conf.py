@@ -30,6 +30,7 @@ author = 'M. Hasan Celik'
 # ones.
 extensions = [
     'sphinx.ext.napoleon',
+    'sphinx.ext.autodoc',
     'm2r2',
     'nbsphinx'
 ]
