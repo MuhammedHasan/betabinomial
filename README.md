@@ -2,7 +2,7 @@
 
 Implementation of Beta-Binomial (https://en.wikipedia.org/wiki/Beta-binomial_distribution) in python for parameters inference with moment method estimation and statistical testing on count data.
 
-Documentation
+[Documentation](https://betabinomial.readthedocs.io/en/latest/)
 
 ## Installation
 
