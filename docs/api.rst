@@ -1,6 +1,6 @@
 API
 =============
 
-.. automodule:: betabinomial.betabinomial
+.. automodule:: betabinomial
    :members:
    :noindex:
