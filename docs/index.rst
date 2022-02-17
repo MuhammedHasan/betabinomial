@@ -12,8 +12,10 @@ Welcome to betabinomial's documentation!
    :caption: Feature Overview
 
    quick_start
-   notebooks/betabinomial
+   notebooks/examples
    api
+
+   source/modules
 
 .. mdinclude:: ../README.md
 
