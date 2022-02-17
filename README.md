@@ -1,5 +1,9 @@
 # BetaBinomial
 
+![tests](https://github.com/muhammedhasan/betabinomial/actions/workflows/python-app.yml/badge.svg)
+[![pypi](https://img.shields.io/pypi/v/betabinomial.svg)](https://pypi.python.org/pypi/betabinomial)
+[![Documentation Status](https://readthedocs.org/projects/betabinomial/badge/?version=latest)](https://betabinomial.readthedocs.io/en/latest/?badge=latest)
+
 Implementation of Beta-Binomial (https://en.wikipedia.org/wiki/Beta-binomial_distribution) in python for parameters inference with moment method estimation and statistical testing on count data.
 
 [Documentation](https://betabinomial.readthedocs.io/en/latest/)
