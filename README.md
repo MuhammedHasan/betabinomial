@@ -65,3 +65,12 @@ padj = pval_adj(pval)
 ## Citation
 
 If you use this package in academic publication, please cite:
+```
+@article{celik2022analysis,
+  title={Analysis of alternative polyadenylation from long-read or short-read RNA-seq with LAPA},
+  author={Celik, Muhammed Hasan and Mortazavi, Ali},
+  journal={bioRxiv},
+  year={2022},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
